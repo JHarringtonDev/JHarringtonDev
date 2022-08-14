@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Harrington</h1>
 <h3 align="center">I am a full-stack developer based in Henderson, Nevada. I love learning and developing skills such as language, software development and art. I chose a career in tech because I have been interested in technology and computers for as long as I can remember. I've worked a few jobs before going down this path but none of them hooked me the same way that code has. I have well developed skills in HTML, CSS, JavaScript, Node.JS, MongoDB, and React.</h3>
 
-- All of my projects are available at [https://jharringtondev.netlify.app/](https://jharringtondev.netlify.app/)
+- My portfolio with running versions of my projects are available at [https://jharringtondev.netlify.app/](https://jharringtondev.netlify.app/)
 
 - Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRyKs-ZN3zCqGDR4VRsy4ZIOSWVGrm6ZmFu3cilUgtxyUJJKnsS0YKb1MoOP-ZU-ZCLp8Vjd4p9MUNB/pub](https://docs.google.com/document/d/e/2PACX-1vRyKs-ZN3zCqGDR4VRsy4ZIOSWVGrm6ZmFu3cilUgtxyUJJKnsS0YKb1MoOP-ZU-ZCLp8Vjd4p9MUNB/pub)
 
