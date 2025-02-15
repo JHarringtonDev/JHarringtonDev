@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Jason Harrington</h1>
-<h3 align="center">I am a full-stack developer based in Henderson, Nevada. I love learning and developing skills such as language, software development and art. I chose a career in tech because I have been interested in technology and computers for as long as I can remember. I've worked a few jobs before going down this path but none of them hooked me the same way that code has. I have well developed skills in HTML, CSS, JavaScript, Node.JS, MongoDB, and React.</h3>
+![ 👋🏽 Hello!](https://media.licdn.com/dms/image/v2/D5616AQHLFWfE9OwIfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736938267805?e=1744848000&v=beta&t=luTOgeBZsqRoMtkNZsmwDUzaA8v4h1dEFIRrHCit93k)
 
-- My portfolio with running versions of my projects are available at [https://jharringtondev.netlify.app/](https://jharringtondev.netlify.app/)
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+         👋🏽 Hello!
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRyKs-ZN3zCqGDR4VRsy4ZIOSWVGrm6ZmFu3cilUgtxyUJJKnsS0YKb1MoOP-ZU-ZCLp8Vjd4p9MUNB/pub](https://docs.google.com/document/d/e/2PACX-1vRyKs-ZN3zCqGDR4VRsy4ZIOSWVGrm6ZmFu3cilUgtxyUJJKnsS0YKb1MoOP-ZU-ZCLp8Vjd4p9MUNB/pub)
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/jason-harrington-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/JHarringtonDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<h3 align="left">Connect with me:</h3>
+ **<h3 align="left">Gameplay Programmer who has transitioned from web development, combining proven engineering experience with a passion for game creation. Proven track record of building interactive experiences in Unity and C#, while leveraging strong programming fundamentals and agile development practices. Experienced in delivering polished applications from concept to completion across multiple platforms and technologies.</h3>**
+
+ **<h3 align="left">Languages and Tools</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=unity" height="32" alt="Unity" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=express" height="32" alt="Express" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="MongoDB" style="margin-right: 4px"></div>
+
 <p align="left">
-<a href="https://twitter.com/jharringtondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jharringtondev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jharringtondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jharringtondev" height="30" width="40" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
