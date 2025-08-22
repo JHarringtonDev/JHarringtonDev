@@ -1,5 +1,3 @@
-![👋🏽 Hello!]
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
