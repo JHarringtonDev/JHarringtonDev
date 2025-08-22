@@ -1,4 +1,4 @@
-![👋🏽 Hello!](https://media.licdn.com/dms/image/v2/D5616AQHLFWfE9OwIfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736938267805?e=1753315200&v=beta&t=CK8wJS8S7r-ieREo-DmS4RR_QMqf8ma4h9hPbp0u6BE)
+![👋🏽 Hello!]
 
 <div id="toc">
   <ul align="left" style="list-style: none">
@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/jason-harrington-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/JHarringtonDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I am a Gameplay Programmer who has transitioned from web development, combining proven engineering experience with a passion for game creation. Proven track record of building interactive experiences in Unity and C#, while leveraging strong programming fundamentals and agile development practices. Experienced in delivering polished applications from concept to completion across multiple platforms and technologies.</h3>**
+ **<h3 align="left">I’m a Software Engineer who’s skilled in JavaScript, modern web tech, and full-stack development. I've helped non-profit organizations raise awareness for their causes and connect with potential funding sources with my proven track record of delivering fast, reliable, and maintainable applications. I thrive on solving complex problems, refining code for peak performance, and channeling my creativity into game development with Unity and C#.</h3>**
 
  **<h3 align="left">Languages and Tools</h3>**
 
