@@ -11,7 +11,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/jason-harrington-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/JHarringtonDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I’m a Software Engineer who’s skilled in JavaScript, modern web tech, and full-stack development. I've helped non-profit organizations raise awareness for their causes and connect with potential funding sources with my proven track record of delivering fast, reliable, and maintainable applications. I thrive on solving complex problems, refining code for peak performance, and channeling my creativity into game development with Unity and C#.</h3>**
+ **<h3 align="left">I’m a Software Engineer skilled in JavaScript and full-stack development. I've helped non-profit organizations raise awareness for their causes and connect with potential funding sources by delivering fast, reliable, and maintainable applications. I love solving complex problems, looking for ways to refine my processes, and making some games on the side.</h3>**
 
  **<h3 align="left">Languages and Tools</h3>**
 
